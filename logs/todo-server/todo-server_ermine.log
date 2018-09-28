@@ -1,0 +1,10 @@
+2018-09-28 10:52:39,132 INFO  [main] [] traceId: ermine - loadProperties success: logFolder = /Users/weidian/IdeaProjects2/mytest/logs/todo-server, appName = todo-server
+2018-09-28 10:52:39,156 INFO  [main] [] traceId: ermine - ermine-cache logback load success
+2018-09-28 10:52:39,157 INFO  [main] [] traceId: ermine - CacheLogger init success
+2018-09-28 10:52:39,159 INFO  [main] [] traceId: ermine - loadProperties success: logFolder = /Users/weidian/IdeaProjects2/mytest/logs/todo-server, appName = todo-server
+2018-09-28 10:52:39,178 INFO  [main] [] traceId: ermine - ermine-sleuth logback load success
+2018-09-28 10:52:39,179 INFO  [main] [] traceId: ermine - SleuthLogger init success
+2018-09-28 10:52:39,181 INFO  [main] [] traceId: ermine - loadProperties success: logFolder = /Users/weidian/IdeaProjects2/mytest/logs/todo-server, appName = todo-server
+2018-09-28 10:52:39,228 INFO  [main] [] traceId: ermine - ermine-rpc logback load success
+2018-09-28 10:52:39,228 INFO  [main] [] traceId: ermine - RpcLogger init success
+2018-09-28 10:52:43,529 INFO  [main] [] traceId: ermine - WhitelistLogCenter init success
