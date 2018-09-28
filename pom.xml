@@ -8,12 +8,19 @@
     <artifactId>com.mytest</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>rxjava-test</module>
         <module>logcleaner-test</module>
         <module>vitamin-client-spring</module>
         <module>bay-max-test</module>
         <module>toc-test</module>
+        <module>java-asm-test</module>
+        <module>java-nio-test</module>
+        <module>java-reflect-test</module>
+        <module>java-basic-test</module>
+        <module>google-guava-test</module>
+        <module>java-mutit-thread-test</module>
     </modules>
 
 

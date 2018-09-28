@@ -7,6 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bay-max-test" />
+        <module name="google-guava-test" />
+        <module name="java-asm-test" />
+        <module name="java-basic-test" />
+        <module name="java-mutit-thread-test" />
+        <module name="java-nio-test" />
+        <module name="java-reflect-test" />
         <module name="logcleaner-test" />
         <module name="rxjava.test" />
         <module name="toc-test" />
@@ -15,6 +21,17 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bay-max-test" target="1.7" />
+      <module name="dubbo" target="1.7" />
+      <module name="dubbo-demo-api" target="1.7" />
+      <module name="dubbo-demo-consumer" target="1.7" />
+      <module name="dubbo-demo-provider" target="1.7" />
+      <module name="dubbo.demo" target="1.7" />
+      <module name="google-guava-test" target="1.7" />
+      <module name="java-asm-test" target="1.7" />
+      <module name="java-basic-test" target="1.7" />
+      <module name="java-mutit-thread-test" target="1.7" />
+      <module name="java-nio-test" target="1.7" />
+      <module name="java-reflect-test" target="1.7" />
       <module name="logcleaner-test" target="1.7" />
       <module name="mytest" target="1.7" />
       <module name="rxjava.test" target="1.7" />
