@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vdian.udc:udc-verify-api:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/udc/udc-verify-api/1.0.1-SNAPSHOT/udc-verify-api-1.0.1-20180912.120923-73.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/udc/udc-verify-api/1.0.1-SNAPSHOT/udc-verify-api-1.0.1-20180912.120923-73-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/udc/udc-verify-api/1.0.1-SNAPSHOT/udc-verify-api-1.0.1-20180912.120923-73-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bay-max-test/bay-max-test.iml" filepath="$PROJECT_DIR$/bay-max-test/bay-max-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logcleaner-test/logcleaner-test.iml" filepath="$PROJECT_DIR$/logcleaner-test/logcleaner-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest.iml" filepath="$PROJECT_DIR$/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava-test/rxjava.test.iml" filepath="$PROJECT_DIR$/rxjava-test/rxjava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toc-test/toc-test.iml" filepath="$PROJECT_DIR$/toc-test/toc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamin-client-spring/vitamin-client-spring.iml" filepath="$PROJECT_DIR$/vitamin-client-spring/vitamin-client-spring.iml" />
+    </modules>
+  </component>
+</project>
