@@ -1,0 +1,17 @@
+vn/
+.idea/
+.idea/*
+target/
+test-output/
+*.class
+.classpath
+.project
+.settings/
+tmp
+temp
+*.log
+.idea/
+*.iml
+.DS_Store
+.DS_Store?
+
