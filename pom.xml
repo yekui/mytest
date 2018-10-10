@@ -21,6 +21,8 @@
         <module>java-basic-test</module>
         <module>google-guava-test</module>
         <module>java-mutit-thread-test</module>
+        <module>rocketmq-test</module>
+        <module>qps-counter-test</module>
     </modules>
 
 
